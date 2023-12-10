@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e.patsourakis\\RiderProjects\\ClassLibrary\\Lesson1Assignment2\\Lesson1Assignment2.csproj",
+      "projectUniqueName": "C:\\basic-c-sharp-group-2\\Lesson1Assignment2\\Lesson1Assignment2.csproj",
       "projectName": "Lesson1Assignment2",
-      "projectPath": "C:\\Users\\e.patsourakis\\RiderProjects\\ClassLibrary\\Lesson1Assignment2\\Lesson1Assignment2.csproj",
+      "projectPath": "C:\\basic-c-sharp-group-2\\Lesson1Assignment2\\Lesson1Assignment2.csproj",
       "packagesPath": "C:\\Users\\e.patsourakis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e.patsourakis\\RiderProjects\\ClassLibrary\\Lesson1Assignment2\\obj\\",
+      "outputPath": "C:\\basic-c-sharp-group-2\\Lesson1Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
