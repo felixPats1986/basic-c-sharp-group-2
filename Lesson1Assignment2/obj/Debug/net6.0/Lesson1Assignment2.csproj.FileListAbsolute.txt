@@ -1,0 +1,15 @@
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\bin\Debug\net6.0\Lesson1Assignment2.exe
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\bin\Debug\net6.0\Lesson1Assignment2.deps.json
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\bin\Debug\net6.0\Lesson1Assignment2.runtimeconfig.json
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\bin\Debug\net6.0\Lesson1Assignment2.dll
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\bin\Debug\net6.0\Lesson1Assignment2.pdb
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.csproj.AssemblyReference.cache
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.AssemblyInfoInputs.cache
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.AssemblyInfo.cs
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.dll
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\refint\Lesson1Assignment2.dll
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.pdb
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\Lesson1Assignment2.genruntimeconfig.cache
+C:\Users\e.patsourakis\RiderProjects\ClassLibrary\Lesson1Assignment2\obj\Debug\net6.0\ref\Lesson1Assignment2.dll
